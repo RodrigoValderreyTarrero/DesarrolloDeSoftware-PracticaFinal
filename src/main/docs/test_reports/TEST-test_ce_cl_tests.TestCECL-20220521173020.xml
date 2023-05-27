@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_ce_cl_tests.TestCECL-20220521173020" tests="16" file="test_ce_cl_tests.py" time="0.079" timestamp="2022-05-21T17:30:20" failures="0" errors="0" skipped="0">
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_cancelation_final" time="0.009" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_cancelation_otro" time="0.008" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_date_signature_40_hex" time="0.005" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_date_signature_63_hex" time="0.009" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_date_signature_65_hex" time="0.003" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_date_signature_70_hex" time="0.004" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_date_signature_no_hex" time="0.003" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_invalid_format" time="0.001" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_invalid_json" time="0.001" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_0_caracter" time="0.006" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_100_caracter" time="0.005" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_101_caracter" time="0.003" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_189_caracter" time="0.003" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_1_caracter" time="0.006" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_reason_2_caracter" time="0.004" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_ce_cl_tests.TestCECL" name="test_todo_ok" time="0.008" timestamp="2022-05-21T17:30:20"/>
+</testsuite>

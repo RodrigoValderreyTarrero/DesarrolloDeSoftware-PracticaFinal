@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_get_vaccine_date_comprobar_fecha_tests.TestComprobarFecha-20220521173020" tests="4" file="test_get_vaccine_date_comprobar_fecha_tests.py" time="0.043" timestamp="2022-05-21T17:30:21" failures="0" errors="0" skipped="0">
+	<testcase classname="test_get_vaccine_date_comprobar_fecha_tests.TestComprobarFecha" name="test_fecha_dia_erroneo" time="0.025" timestamp="2022-05-21T17:30:20"/>
+	<testcase classname="test_get_vaccine_date_comprobar_fecha_tests.TestComprobarFecha" name="test_fecha_formato_erroneo" time="0.006" timestamp="2022-05-21T17:30:21"/>
+	<testcase classname="test_get_vaccine_date_comprobar_fecha_tests.TestComprobarFecha" name="test_fecha_mes_erroneo" time="0.007" timestamp="2022-05-21T17:30:21"/>
+	<testcase classname="test_get_vaccine_date_comprobar_fecha_tests.TestComprobarFecha" name="test_request_registration_anterior" time="0.006" timestamp="2022-05-21T17:30:21"/>
+</testsuite>
